@@ -1,0 +1,15 @@
+.:
+filelist.txt
+i386
+mageia.menu
+x86_64
+
+./i386:
+all.rdz
+mageiamain.menu
+vmlinuz
+
+./x86_64:
+all.rdz
+mageiamain.menu
+vmlinuz

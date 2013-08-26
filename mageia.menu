@@ -1,0 +1,14 @@
+MENU BEGIN Mageia
+MENU LABEL ^Mageia 1.0
+# ------====> Include Menu Settings <====------
+MENU INCLUDE er/menuinc/header.module
+
+# ------====> Set Specific Page Settings <====------
+MENU BACKGROUND er/plugins/mageia/mageia.png
+
+MENU INCLUDE er/plugins/mageia/i386/mageiamain.menu
+MENU INCLUDE er/plugins/mageia/x86_64/mageiamain.menu
+
+# ------====> Back <====------
+MENU INCLUDE er/menu/shared/menu-back.module
+MENU END
