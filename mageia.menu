@@ -1,9 +1,6 @@
 MENU BEGIN Mageia
+MENU TITLE Mageia 1.0
 MENU LABEL ^Mageia 1.0
-# ------====> Include Menu Settings <====------
-MENU INCLUDE er/menuinc/header.module
-
-# ------====> Set Specific Page Settings <====------
 MENU BACKGROUND er/plugins/mageia/mageia.png
 
 MENU INCLUDE er/plugins/mageia/i386/mageiamain.menu
